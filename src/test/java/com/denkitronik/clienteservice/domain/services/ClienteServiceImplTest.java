@@ -41,7 +41,7 @@ class ClienteServiceImplTest {
 
         cliente = new Cliente();
         cliente.setId(1L);
-        cliente.setNombre("Linus");
+        cliente.setNombre("Torvalds");
         cliente.setApellido("Torvalds");
         cliente.setEmail("linus@kernel.org");
         cliente.setRegion(region);
